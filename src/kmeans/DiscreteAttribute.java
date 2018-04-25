@@ -20,7 +20,7 @@ class DiscreteAttribute extends Attribute{
 	}
 	
 	int frequency(Data data, ArraySet idList, String v) {
-		sono un assassino
+		non sono un assassino
 		
 	}
 }
